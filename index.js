@@ -1,4 +1,3 @@
-  
 const input = document.querySelector('input');
 
 function addingEventListener() {
